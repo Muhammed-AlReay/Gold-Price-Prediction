@@ -22,7 +22,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Memo2004/Gold-Price-Prediction.git
+   git clone https://github.com/Muhammed-AlReay/Gold-Price-Prediction.git
    cd Gold-Price-Prediction
    ```
 
@@ -56,5 +56,5 @@ The dataset includes historical gold price data along with economic indicators t
 - Deploy the application on cloud platforms.
 
 ---
-**Author:** Mohammed Khaled
+**Author:** Muhammed-AlReay
 
